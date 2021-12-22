@@ -1,2 +1,0 @@
-# cppmaths
-MATH IN C++!
